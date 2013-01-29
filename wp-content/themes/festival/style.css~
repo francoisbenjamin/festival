@@ -1,0 +1,29 @@
+/*
+Theme Name: Festival
+Theme URI:
+Description: Thème enfant du thème Twenty Twelve
+Author: FRANCOIS Benjamin
+Author URI:
+Template: twentytwelve
+Version: 0.1.0
+*/
+Festival
+http://example.com/
+Thème enfant du thème Twenty Twelve
+Votre nom
+http://example.com/about/
+twentytwelve
+0.1.0
+@import url("../twentytwelve/style.css");
+
+/*AGENDA*/
+.prog-date{
+	color: red;
+	font-weight : bold;
+}
+
+/*BARRE DE NAVIGATION*/
+.fg-rouge a{
+	background-color: #ff0000;
+	color : white !important;
+}

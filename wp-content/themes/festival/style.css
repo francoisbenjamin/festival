@@ -1,0 +1,119 @@
+/*
+Theme Name: Festival
+Theme URI:
+Description: Thème enfant du thème Twenty Twelve
+Author: FRANCOIS Benjamin
+Author URI:
+Template: twentytwelve
+Version: 0.1.0
+*/
+@import url("../twentytwelve/style.css");
+
+/*PAGE*/
+#page{
+	background-color: transparent !important;
+	box-shadow : none !important;
+}
+
+/*FOND*/
+body{
+	background : url("images-festival/background.jpg") ;
+	background-size : cover;
+}
+/*TITRE*/
+.site-title{
+	font-size : 6em !important;
+}
+
+.site-title a {
+	color : white !important;
+}
+
+/*TITRE D'ARTICLE*/
+.entry-title{
+	font-size : 3em !important;
+}
+/*CONTENU*/
+#content{
+	padding : 10px;
+	background-color : white;
+	box-shadow : 1px 1px 12px #555;
+}
+/*AGENDA*/
+.prog-date{
+	color: red;
+	font-weight : bold;
+}
+
+#text-3{
+	padding : 10px;
+	background-color : white;
+	box-shadow : 1px 1px 12px #555;
+}
+/*BARRE DE NAVIGATION*/
+.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul {
+	border: 0;
+}
+.fg-rose a {
+	border-radius : 15px 0 0 15px;
+	padding-left : 20px;
+	padding-right : 20px;
+	background-color: hotpink;
+	color : white !important;
+	margin-right : -20px;
+}
+
+.fg-rouge a{
+	padding-left : 20px;
+	padding-right : 20px;
+	background-color: red;
+	color : white !important;
+	margin-left : -30px;
+	margin-right : -30px;
+}
+
+.fg-orange a {
+	background-color: orange;
+	color : white !important;
+	padding-left : 10px;
+	padding-right : 10px;
+	margin-left : -15px;
+	margin-right : -15px;
+}
+
+.fg-jaune a {
+	background-color: yellow !important;
+	color : black !important;
+	padding-left : 10px;
+	padding-right : 10px;
+	margin-left : -30px;
+	margin-right : -15px;
+}
+
+.fg-vert a {
+	background-color: green;
+	color : white !important;
+	padding-left : 10px;
+	padding-right : 10px;
+	margin-left : -30px;
+	margin-right : -15px;
+}
+
+.fg-turquoise a {
+	background-color: turquoise;
+	color : white !important;
+	padding-left : 10px;
+	padding-right : 10px;
+	margin-left : -30px;
+	margin-right : -15px;
+}
+
+.fg-bleu a {
+	border-radius : 0 15px 15px 0;
+	background-color: blue;
+	color : white !important;
+	padding-left : 10px;
+	padding-right : 10px;
+	margin-left : -30px;
+	margin-right : -15px;
+}

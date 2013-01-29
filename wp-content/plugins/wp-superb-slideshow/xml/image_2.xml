@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+				<data>
+					<settings><swfWidth>600</swfWidth>
+		<swfHeight>240</swfHeight>
+		<imageWidth>600</imageWidth>
+		<imageHeight>240</imageHeight>
+		<columns>7</columns>
+
+		<rows>3</rows>
+		<spacing>10</spacing>
+		<autoPlay>true</autoPlay>
+		<randomizeSlideOrder>false</randomizeSlideOrder>
+		<cycleTransitions>1</cycleTransitions>
+		<useButtons>true</useButtons>
+
+		<leftButton>http://localhost/~francois/festival/wp-content/plugins/wp-superb-slideshow/buttons/left.png</leftButton>
+		<rightButton>http://localhost/~francois/festival/wp-content/plugins/wp-superb-slideshow/buttons/right.png</rightButton>
+		<leftButtonOver>http://localhost/~francois/festival/wp-content/plugins/wp-superb-slideshow/buttons/left_over.png</leftButtonOver>
+		<rightButtonOver>http://localhost/~francois/festival/wp-content/plugins/wp-superb-slideshow/buttons/right_over.png</rightButtonOver></settings><!-- end settings -->
+					<media>					    
+					</media><!-- end images -->
+				</data>
